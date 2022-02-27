@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions agreed upon by the Lords and Commons in Parliament assembled, to be observed in taking, examining, and determining the accompts of all officers and souldiers, who have actually and faithfully served under their command in the kingome of England and dominion of Wales from or since the beginning of these wars.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82837</idno>
+            <idno type="STC">Wing E1591A</idno>
+            <idno type="STC">ESTC R175119</idno>
+            <idno type="EEBO-CITATION">47682922</idno>
+            <idno type="OCLC">ocm 47682922</idno>
+            <idno type="VID">172874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2654:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions agreed upon by the Lords and Commons in Parliament assembled, to be observed in taking, examining, and determining the accompts of all officers and souldiers, who have actually and faithfully served under their command in the kingome of England and dominion of Wales from or since the beginning of these wars.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Die Veneris, 28. Maii, 1647.</note>
+                  <note>Reproduction of original in: Birmingham Central Reference Library (Birmingham, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:172874:1"/>
+            <opener>
+               <date>
+                  <hi>Die Veneris,</hi> 28. <hi>Maii,</hi> 1647.</date>
+            </opener>
+            <head>Inſtructions agreed upon by the Lords and Commons in Parliament aſſembled, to be obſerved in taking, examining, and determining the Accompts of all Officers and Souldiers, who have actually and faithfully ſerved under their command in the Kingdome of <hi>England</hi> and Dominion of <hi>Wales</hi> from or ſince the beginning of theſe Wars.</head>
+            <p n="1">I <seg rend="decorInit">T</seg>Hat all Officers of Horſe, Foot, and Dragoones, who have ſerved under the Command and Pay of the Committee of any Aſſociation, County, or Garriſon, ſhall have all the Accompts for their pay certified according to Muſter, by every ſuch Committee, or any three of them, under their hands reſpectively, <hi>(viz.)</hi> How long every ſuch Of<g ref="char:EOLhyphen"/>ficer hath actuall ſerved with a Regiment, Troope, or Company, under his Command; And what number, to his knowledge, that Regiment, Troope, or Company, did conſiſt of, during that time, by what Commiſsion, under whoſe Command, in what quality, and what Money, to their knowledge, every Officer hath received for or toward his Pay; and what he hath received in Horſe, Armes, or other goods, for which he may be charged by and accomptable to the State. And in caſe the Committee for any Aſſociation, County, or Garriſon, ſhall give notice to the Committee, or Sub-Committee, appointed for this ſervice, that they are unable to certifie on the behalfe of ſuch an Officer, or that ſuch an Officer, hath not ſerved under their Command, Then the Commander in chiefe of every ſuch Garriſon, Regiment, or Regiments under whom ſuch an Officer hath ſerved, and the next in chiefe under him, that ſhall then ſurvive reſpectively, with the Captaine, if then living, who ſhall be concer<g ref="char:EOLhyphen"/>ned in any ſuch Certificate, to be given on the behalfe of his Officers, ſhall certifie the ſame according to Muſters as aforeſaid, under their owne Hands and Seales; which they are to doe with ſuch care, as they and every of them may deliver the ſame upon their Oathes, if required, before the Committee for this Service, or their Sub-Committees; which Accompts ſo certified by the Committees or Officers, as aforeſaid, ſhall be returned to the Sub-Committee appointed by the Committee for the Accompts of the Kingdome, for taking the Accompts of that County where ſuch Officer hath ſerved, and from them to be tranſmitted to the Committee appointed for this ſervice, to receive ſuch further charge as they ſhall be able to give, and afterwards to be by them determined according to theſe Inſtructions, and ſpeedily returned to the ſaid Sub-Committee, who are to deliver the ſame to the ſeverall Officers, and other perſons who are concerned therein.</p>
+            <p n="2">II. That all Officers whatſoever, who doe or have ſerved in the Grand Armies of the Kingdome, and have not had relation at the ſame time to particular Counties or Garriſons, ſhall according to Muſter have ſuch and the like Certificates from the two Superiour Officers (which ſhall be ſur<g ref="char:EOLhyphen"/>viving) of the Regiment wherein they have actually ſerved; And in caſe the Certificate concerne any Officer under the degree of a Captaine, then that Captaine, if living who is concerned in that Certificate, on the behalfe of his Officer, ſhall joyne in certifying the ſame accordingly; and from them tranſmitted to the Committee for this Service.</p>
+            <p n="3">III. That no Certificate ſhall be taken, where the parties that give it have not made it firſt to appeare to the Committee appointed for this Service, or their Sub-Committee, that they have not been caſhiered from their command for any miſdemeanour: And ſhall likewiſe have given in to the a<g ref="char:EOLhyphen"/>foreſaid Commmittee, or Sub-Committees, their Hands, Seales, and Qualities, with which addition they ſhall afterwards certifie and no other waies.</p>
+            <p n="4">IIII. That in caſe any Committee of both Houſes of Parliament, or any Generall, have heretofore granted any Warrants by Authority from the Parliament for payment of any Arrears due to any Officer for his Service; And that the ſame, or any part thereof, doth ſtill remaine unpaid, Then in every ſuch caſe the Committee appointed for this purpoſe, ſhall make deduction upon evety Warrant, according to the directions herein expreſt; and the remainder appearing due thereupon ſhall be accompted to every ſuch Officer a juſt debt from the State.</p>
+            <p n="5">V. That all Officers and Souldiers who have already received any ſumme of Money in full ſatisfaction from the reſpective Counties where they ſerved, though it was not agreeable hereunto, ſhall not by vertue of this Ordinance (any Clauſe herein contained) claim any ſuch pretended Arrears.</p>
+            <p n="6">VI. That all Governours of Cities, Caſtles, Townes, or Forts, unto whom any allowance is due, either as Governour, or for Pay, Spies, Intelligence Fortifications, or Monies neceſſarily laid out for Horſes Arms, Ammunition, or otherwiſe for the ſervice of the State and hath not received the ſame ſhall have the Accompts of ſuch Pay and Charges examined, allowed, and determined, by the Committee appointed for this purpoſe, as an Arreare to them due.</p>
+            <p>Provided alwaies, that the Governour aforeſaid ſhall take his Corporall Oath that neither in Mony, Horſe Armes, or other Goods appertaining, or belonging to the State, he hath received any part of the Money which he accounts as due unto himſelfe; And ſhall upon the ſame Oath deliver in an Accompt of what ever remaineth in his hands belonging to the State.</p>
+            <p n="7">VII That no Officer of what quality ſoever (who hath received any Mony or Goods from the State, or other waies for which he is to be accompt<g ref="char:EOLhyphen"/>able) ſhall have his Accompts determined by the Committee appointed for the ſame, before he hath delivered in an Accompt thereof to the Com<g ref="char:EOLhyphen"/>mittee for the Accompts of the whole Kingdom or their Sub-Committees reſpectively. And in caſe it ſhall appeare at any time within two years after determination of any ſuch Accompt, that any ſuch Officer is further chargeable, he ſhall for default herein forfeit to the State double the ſumme which ſhall appeare he hath not formerly acknowledged upon his Accompt.</p>
+            <p n="8">VIII That no Officer of Horſe, or Dragoones in Commiſsion ſhall receive Pay for any Horſes in order to their reſpective qualities, other then he ſhall make to appeare by the Muſters, he kept for the ſervice of the Parliament, and for ſuch time onely, as it ſhall ſo appeare he kept them.</p>
+            <p n="9">IX And foraſmuch as the greatneſſe of the debt due to the whole Souldiery, who have ſerved faithfully in this Warre, hath occaſioned heretofore part of the Pay to them ſo due to be reſpited on the Publique-Faith for a preſent eaſe; Yet conſidering the ſame debt will at length become payable from the Common-wealth, of whom the Souldery of this Kingdome have beene neceſsitated to take free-Quarter when Monies could not be provi<g ref="char:EOLhyphen"/>ded for them; And when they have received Monies for their Pay, they have many times left their Quarters undiſcharged, ſo that the Publique will be in danger to ſuffer in both; It is therefore ordered that no ſumme of Mony due to any Officer, or Souldier, ſhall be ſo reſpited, But the Committee appointed for this ſervice ſhall have power, and are hereby authorized and required to deduct reſpectively out of the whole ſum demanded for pay by any Officer, or Souldier for their ſervice in this Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> the ſeverall and reſpective proportions of Moneys hereafter expreſſed, for their Quarters due to the Common-wealth,</p>
+            <p n="10">X From all Foot Souldiers, and Officers of Foot, whoſe pay is ſeven ſhillings a weeke, or under, three ſhillings a week for their Quarters.</p>
+            <p n="11">XI From all Serjeants of Foot, foure ſhillings and ſix pence a week for their Quarters.</p>
+            <p n="12">XII From all Officers of Foot in Commiſſion, of what quality ſoever, one fourth part of their reſpective payes for their Quarters.</p>
+            <p n="13">XIII From all Officers belonging to the Traine of Artillery, one fourth part of the reſpective pay to them due.</p>
+            <p n="14">XIV From all Officers of Horſe or Dragoones of what quality ſoever, one third part of the pay to them due for themſelves and Horſes.</p>
+            <p n="15">XV From all private Troopers eight ſhillings a weeke for their Quarters, Provided that this extend not to ſuch Officers in Commiſsion that have ſerved in any Garriſon, County, or Grand Army and ſhall make it appeare by ſufficient teſtimonies to the Committee for this purpoſe, or their Sub-Committees, they have diſcharged their Quarters, during the time for which they crave allowance.</p>
+            <p n="16">XVI That all private Souldiers, as well of Horſe as Foot diſbanded, or to be disbanded, who have not received ſatisfaction for their ſervice in the Armies, or Counties where they have ſerved, ſhall receive the ſame from the Committees of the ſeverall Armies or Counties, where they have done, or now doe the ſervice; For the evidencing whereof, every ſuch Souldier ſhall bring to the reſpective Committees a Note under the hands and ſeales of his Officer that he is ſo many weekes in Arreare, who are to deduct out of ſuch Arreares for his Quarters, according to the rate hereby Ordered both for Horſe and Foot. Provided, that this extend not to any private Souldier, whether of Horſe or Foot, who hath left the ſervice of that Army, Garriſon, or County, without lawfull diſcharge, although he hath forthwith Liſted himſelfe in ſome other place for the ſervice of the Parliament, or that hath not, or hereafter ſhall not, deliver in to the reſpective Committees aforeſaid, ſuch Horſe and Armes with which he hath ſerved, or a Certificate under the hand of his ſuperior Officer, that ſuch Horſe and Armes with which he hath ſerved did not appertaine to the State, or was loſt in actuall ſervice, whoſe accompts caſt up as is expreſt, upon Certificate from the Committees for the reſpective Armties and Counties aforeſaid, of ſuch a debt due to the private Souldier of that Army or County, they ſhall forthwith be enabled to diſcharge the ſame,</p>
+            <p n="17">XVII That all Accompts that have heretofore been ſtated by Order of Parliament, or any Committee thereof, ſhall be regulated according to the Inſtructions herein contained by the Committee appointed for this ſervice, except ſuch who have received the ſummes of money ſo certified, or ſome part thereof in full of their whole demand.</p>
+            <p n="18">XVIII That all Officers, who were in actuall ſervice the 25 day of <hi>March Anno</hi> 1647. ſhall have their Accompts made up to that time, and all o<g ref="char:EOLhyphen"/>thers disbanded to the time of their diſmiſsion, Provided that this extend not to any Officer of what quality ſoever, who hath had a Commiſsion for a Regiment, Troop, or Company, and with the ſame hath not beene for the time he craveth allowance in actuall ſervice, neither ſhall any Certifi<g ref="char:EOLhyphen"/>cate be made for longer time then any ſuch Officer hath had ſuch a Regiment, Troope, or Company, actually under his command, upon penality of the loſſe of their whole Arreares, who ſhall certifie the ſame, Provided that this exception ſhall not any way debarre from payment, that Regiment of Reformadoes under the command of Colonel <hi>Saunderſon,</hi> but they and every of them abating for their Quarters, one third part of their reſpective payes, ſhall have their Accompts made up according to the agreement made then with them, as Reformadoes, and what money remaines due to them for that ſervice, ſhall be accompted as a debt from the State; And it is further Provided, That where it ſhall appeare any Officer hath had a Regiment, Troope, or Company under his command, for which he craveth allowance, which did not conſiſt of above the number hereafter ſpecified, that is to ſay, in a Regiment of Foot three hundred, in a Regiment of Horſe one hundred and fiftie, in a Troope of Horſe or Dragoones five and twenty, in a Comp<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of Foot forty, all Officers included, That he or they ſhall have his and their Accompts made up, after the proportion of a third part of the full allowance of pay hereafter expreſt, and not otherwiſe.</p>
+            <p n="19">XIX That the Accompt of all Officers, who have ſerved in ſuch Garriſons, for which there hath beene eſtabliſhments made for a ſmaller pay then the allowance for Horſe and Foot before the twentieth of <hi>March</hi> 1643. made to the late Lord, Generall the Earle of <hi>Eſſex,</hi> ſhall have their Accompts made up no otherwaies then by the allowance of pay eſtabliſhed for that Garriſon but ſhall have no part of what reſteth due unto them deducted for free Quarter; But every ſuch Officer ſhall bring to the Committee appointed for this ſervice, or their Sub Committee, a Certificate under the hand and ſeal of the Major, Bayliffe, or the Supreame Civill Officer of that Citie or Town that he hath paid for his Quarters the time of his command in that Garriſon, which Certificate ſo brought ſhall ſufficiently aſſure the Committee for this ſervice, that ſuch an Officer hath paid his Quarter.</p>
+            <p n="20">XX That all Accompts, except of the Officers of the Garriſons, for which there hath beene particular eſtabliſhments, and of the Reformadoes before mentioned, ſhall be determined according to the allowance of pay made to the late Lord Generall the Earle of <hi>Effex</hi> his Army, before the twentieth day of <hi>March</hi> 1643.</p>
+            <p n="21">XXI And laſtly, It is ordered and ordained, that all, and ſingular ſum and ſums of Mony that ſhall appeare to be remaining due upon the ſeverall Accompts which ſhall be taken, examined allowed and determined by the Committee appointed for this ſervice, according to the Inſtructions here<g ref="char:EOLhyphen"/>in expreſt, ſhall be accompted as a juſt debt from the State.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <date>Die Veneris 28, Maii, 1647.</date>
+            </opener>
+            <p>
+               <hi>ORdered by the Lords aſſembled in Parliament, that theſe Inſtructions be forthwith Printed and publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Joh. Brown. Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>John Wright,</hi> at the Kings Head in the Old Bayley,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
